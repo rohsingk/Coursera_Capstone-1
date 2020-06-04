@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repository created for Applied Data Science Capstone 
+This repository is for the Coursera course : Applied Data Science Capstone Project.
